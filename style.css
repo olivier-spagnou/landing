@@ -1,0 +1,31 @@
+/* Write some CSS below */
+h1{color: rgb(0,0,0);
+background-color: rgba(50,50,50, 0.5);
+font-family: Arial}
+h2{color: rgb(100,100,100);
+font-family: Arial}
+body{font-size: 18px;
+font-family: Arial;
+background-color: rgb(235,235,235);}
+a{text-decoration: none; font-weight: bold;}
+p{text-align: justify;}
+
+.profile-center{background-color: rgb(100,150,150);
+	box-shadow: 10px 10px 10px rgba(0,0,0,0.1);
+	padding: 10px;
+border-radius: 1px
+margin:20px;display: inline-block}
+.profile{border-radius: 50%;}
+.profile2()
+.image-header{background-color: rgb(220,220,220); padding: 0px 0px;}
+.header-text{text-align: center}
+.header-image{text-align: center}
+.footer{background-color: rgb(40,40,40);color: white; padding: 20px 0px;
+text-indent: 50px}
+.blog-center{border-radius: 10%}
+.list-boxes{display: grid;grid-template-columns: 1fr 1fr;
+grid-gap: 16px;box-shadow: 1px 1px 10px rgba(0,0,0,0.1);
+	padding: 20px;
+border-radius: 3px;
+margin:35px; background-color: rgb(220,220,220);}
+.photo-left(text-align: center)
